@@ -5,5 +5,5 @@ export const config = {
   title: 'Easy Generator',
   description: 'Authorization system',
   locale: 'en',
-  api: process.env.API || "https://easy-generator-api.onrender.com/api",
+  api: process.env.API || "https://easygenerator-be-qmmr.onrender.com/api",
 };
